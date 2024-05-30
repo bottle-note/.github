@@ -1,1 +1,1 @@
-![image](https://github.com/bottle-note/.github/assets/75371249/a6464358-e4be-4109-8f47-69a9d63aa8e9)
+![Group 236 (3)](https://github.com/bottle-note/.github/assets/97773895/bd41fdbb-f8c6-496d-87df-536b0b85ab89)
