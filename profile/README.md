@@ -1,9 +1,9 @@
 ![Group 236 (3)](https://github.com/bottle-note/.github/assets/97773895/bd41fdbb-f8c6-496d-87df-536b0b85ab89)
 
-<img src="https://github.com/bottle-note/.github/assets/97773895/fa515094-a490-4b7b-9bca-026752fe3de1" alt="Image 1" width="24.6%"/>
-<img src="https://github.com/bottle-note/.github/assets/97773895/98a69d6d-af4f-4365-ac6c-b3e7bdd6aed1" alt="Image 4" width="24.6%"/>
-<img src="https://github.com/bottle-note/.github/assets/97773895/5877ab4b-af23-4767-aebc-5e97a35a89ba" alt="Image 3" width="24.6%"/>
-<img src="https://github.com/bottle-note/.github/assets/97773895/039cf3df-7169-46ed-a76b-72de6f1a1217" alt="Image 2" width="24.6%"/>
+<img src="https://github.com/bottle-note/.github/assets/97773895/fa515094-a490-4b7b-9bca-026752fe3de1" alt="Image 1" width="49%"/>
+<img src="https://github.com/bottle-note/.github/assets/97773895/98a69d6d-af4f-4365-ac6c-b3e7bdd6aed1" alt="Image 4" width="49%"/>
+<img src="https://github.com/bottle-note/.github/assets/97773895/5877ab4b-af23-4767-aebc-5e97a35a89ba" alt="Image 3" width="49%"/>
+<img src="https://github.com/bottle-note/.github/assets/97773895/039cf3df-7169-46ed-a76b-72de6f1a1217" alt="Image 2" width="49%"/>
 
 
 ## *bottle note*
@@ -29,22 +29,25 @@
 위스키의 상세 정보와 다른 사용자의 리뷰를 쉽게 확인할 수 있습니다. <br/>
 다양한 의견을 통해 다른 사람들이 위스키를 어떻게 평가했는지 알 수 있고, <br/>
 새로운 위스키를 시도해볼 수 있어요!<br/>
+!<br/>
 
 **🥃 찜하기 기능으로 위스키 목록 관리**
 
 관심 있는 위스키를 찜하기 기능을 통해 목록에 추가하고, <br/>
 찜한 위스키 목록을 통해 나만의 위스키 컬렉션을 만들 수 있어요!<br/>
-
+!<br/>
 **🥃 다른 유저와 팔로우 및 별점 보기**
 
 다른 사용자를 팔로우하여 그들의 별점과 리뷰를 볼 수 있어요! <br/>
 나의 팔로워들은 어떤 평가를 했을까요? <br/>
 팔로워가 나와 취향이 비슷하다면, 내 입맛에 맞는 새로운 위스키를 알 수 있을지도?<br/>
+!<br/>
 
 **🥃 나의 평가 및 별점 기록 관리**
 
 내가 평가한 위스키와 부여한 별점을 한눈에 볼 수 있어요! <br/>
 나만의 위스키 평가 기록을 통해 나의 취향을 분석하고, 다음 시음을 계획해보세요!<br/>
+!<br/>
 
 ---
 
