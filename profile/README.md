@@ -1,10 +1,5 @@
 ![Group 236 (3)](https://github.com/bottle-note/.github/assets/97773895/bd41fdbb-f8c6-496d-87df-536b0b85ab89)
 
-<img width="19.6%" alt="Frame 401" src="https://github.com/bottle-note/.github/assets/97773895/c17b7349-78e9-44e8-913d-72474b072ae0">
-<img width="19.6%" alt="Frame 406" src="https://github.com/bottle-note/.github/assets/97773895/02188851-a7fe-4fd5-8850-3326a7ccc887">
-<img width="19.6%" alt="Frame 405" src="https://github.com/bottle-note/.github/assets/97773895/31d53ef7-8931-4f12-b07e-16785d66a345">
-<img width="19.6%" alt="Frame 404" src="https://github.com/bottle-note/.github/assets/97773895/3f87657d-bfb7-4d43-b004-798f892e989c">
-<img width="19.6%" alt="Frame 403" src="https://github.com/bottle-note/.github/assets/97773895/cbefd916-6590-453c-99c3-4a14fa01506e">
 
 
 ## *bottle note*
