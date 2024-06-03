@@ -4,7 +4,7 @@
 <img src="https://github.com/bottle-note/.github/assets/97773895/98a69d6d-af4f-4365-ac6c-b3e7bdd6aed1" alt="Image 4" width="49.5%"/>
 <img src="https://github.com/bottle-note/.github/assets/97773895/5877ab4b-af23-4767-aebc-5e97a35a89ba" alt="Image 3" width="49.5%"/>
 <img src="https://github.com/bottle-note/.github/assets/97773895/039cf3df-7169-46ed-a76b-72de6f1a1217" alt="Image 2" width="49.5%"/>
-
+<br/>
 
 ## *bottle note*
 
